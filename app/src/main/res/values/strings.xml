@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PPM</string>
+    <string name="plec_txt">Wybierz plec</string>
+    <string-array name="plec_opcje">
+        <item>kobieta</item>
+        <item>mezczyzna</item>
+    </string-array>
+    <string name="wzrost_txt">Podaj wzrost</string>
+    <string name="wskazowka_wzrost">wzrost</string>
+    <string name="opcja_wzrost_txt">Wzrost w:</string>
+    <string-array name="wzrost_opcje">
+        <item>cm</item>
+        <item>m</item>
+    </string-array>
+    <string name="masa_txt">Podaj mase</string>
+    <string name="wskazowka_masa">masa</string>
+    <string name="wiek_txt">Podaj date urodzenia</string>
+
+    <string name="przycisk_txt">Oblicz PPM</string>
+    <string name="opcja_sposob">Wybierz sposob obliczen</string>
+    <string-array name="sposob_opcje">
+        <item>wzor Benedicta-Harrisa</item>
+        <item>wzor Mifflina</item>
+    </string-array>
+
+
+</resources>
